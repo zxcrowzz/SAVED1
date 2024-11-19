@@ -20,7 +20,106 @@ body {
     border-radius: 5px;
     padding: 20px; /* Inner padding */
 }
+#backgroundImg { 
 
+
+
+    width: 40%;
+
+
+    height: 300px;
+
+
+    position: absolute;
+
+    left: 30%;
+    border-radius: 10px;
+
+    
+}
+
+
+#profileIMG1 {
+
+
+
+    width: 90px;
+
+
+    height: 90px;
+
+
+    border-radius: 50px;
+
+
+
+ 
+
+
+    position: absolute;
+
+    left: 31%;
+
+    bottom: 67%;
+}
+
+#nameContainer1 {
+
+    position: absolute;
+
+
+    color: whitesmoke;
+
+    font-weight: 100;
+
+    left: 37% ;
+
+
+    bottom: 67%;
+
+    
+}
+
+#profileDivContainer {
+
+    position: absolute;
+
+
+    left: 30%;
+
+
+    bottom: 63.5%;
+
+    background-color: lightgray;
+    width: 40%;
+
+    display: flex;
+    
+    border-radius: 10px;
+
+
+    height: 3%;
+
+
+
+
+}
+
+.divProfileBTN {
+
+
+    background-color: lightgray;
+
+    border-left: 1px solid gray;
+
+    border-right: 1px solid gray;
+
+    border-bottom: none;
+
+    border-top: none;
+
+    border-radius: 5px;
+}
 #Header {
     color: gray;
     font-size: 200%;
