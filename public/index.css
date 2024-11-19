@@ -1920,6 +1920,23 @@ left: 35%;
     
     
     }
+
+#postPicture {
+
+    position: absolute;
+  
+    width: 55px;
+    height: 55px;
+    
+    z-index: 3;
+    
+    
+    top: 10%;
+    
+    left: 4%;
+
+    border-radius: 30px;
+}
 #uploadz {
 
     width: 5%;
