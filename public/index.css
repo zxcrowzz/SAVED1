@@ -2587,9 +2587,9 @@ body {
 #pfppostContainer {
 
 
-    width: 9%;
+    width: 25px;
 
-    height: 20%;
+    height: 25px;
 
     left: 5%;
 
@@ -2746,11 +2746,11 @@ body {
 #postPicture {
 
 
-    width: 50px;
+    width: 45px;
 
-    height: 50px;
+    height: 45px;
 
-    left: 3%;
+    left: 2%;
 
     top: 5%;
 }
