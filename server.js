@@ -281,7 +281,7 @@ function initialize(passport) {
 initialize(passport);
 
 // MongoDB connection
-mongoose.connect('mongodb+srv://pantsbro4:Saggytits101@cluster0.mthcl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
+mongoose.connect(process.env.MONGODB_URI, {
     serverSelectionTimeoutMS: 30000
     
 })
