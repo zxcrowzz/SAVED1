@@ -1921,7 +1921,7 @@ left: 35%;
     
     }
 
-#postPicture {
+# {
 
     position: absolute;
   
@@ -2448,7 +2448,7 @@ font-size: 12px;
 }
 
 
-#postPicture1 {
+#1 {
 
     position: absolute;
   
@@ -2759,9 +2759,9 @@ font-size: 12px;
 #postPicture {
 
 
-    width: 35px;
+    width: 28px;
 
-    height: 35px;
+    height: 28px;
 
     left: 2%;
 
