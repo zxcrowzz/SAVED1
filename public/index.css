@@ -2547,6 +2547,22 @@ left: 0;
 
 
 }
+#postPicture {
+
+    position: absolute;
+  
+    width: 55px;
+    height: 55px;
+    
+    z-index: 3;
+    
+    
+    top: 10%;
+    
+    left: 4%;
+
+    border-radius: 30px;
+}
 
 .delete-post-btn {
 
@@ -2978,22 +2994,7 @@ font-size: 12px;
         display: none;
     }
 }
-#postPicture {
 
-    position: absolute;
-  
-    width: 55px;
-    height: 55px;
-    
-    z-index: 3;
-    
-    
-    top: 10%;
-    
-    left: 4%;
-
-    border-radius: 30px;
-}
 
 #postPicture1 {
 
